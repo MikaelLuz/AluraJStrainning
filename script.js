@@ -47,3 +47,11 @@ if(forma === "quadrado"){
 }
 
 console.log(area);
+
+
+//tipagem dinamica
+// untyped
+// o Javascript vê qual o tipo de dado e tipa a variável, sem a necessidade de iniciarmos as variaveis com o tipo.
+let minhaVar = 567;
+minhaVar = "texto";
+minhaVar = true;
